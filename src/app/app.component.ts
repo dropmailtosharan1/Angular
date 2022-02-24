@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-angular';
+  header='Angular 12 + Material + JSON server = Real Time CRUD Application';
 }
